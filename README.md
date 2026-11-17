@@ -32,8 +32,10 @@ Classdigy is our version of Old Prodigy!
 ## Classdigy Definitive Edition
 The definitive version is here and it includes:
 - Multiplayer Mode 
-- Battle System Functional
-if you want to try it out check [this](https://prodigy.entraptadoeztech.nya.je) out!
+- Battle system is functional
+
+if you want to try it out check [this](https://prodigy.entraptadoeztech.nya.je/oldprodigy/1-30-0/) out!
+
 ### CDE School Version 
 Wanna play [Classdigy](https://prodigy.entraptadoeztech.nya.je/oldprodigy/1-30-0/) in class but Prodigy is **blocked**?
 
@@ -42,7 +44,7 @@ Wanna play [Classdigy](https://prodigy.entraptadoeztech.nya.je/oldprodigy/1-30-0
 * [CDE School Ver](class.html)
 
 
-### What it is:
+### What it is/does:
 
 - Uses **jsdelivr** to deliver assets/content
 - Doesn’t touch Prodigy’s servers
