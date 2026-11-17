@@ -39,7 +39,7 @@ Wanna play [Classdigy](https://prodigy.entraptadoeztech.nya.je/oldprodigy/1-30-0
 
 **Well we have a solution for you!**
 
-* [CDE School Ver](/oldprodigy/1-30-0/index.html)
+* [CDE School Ver](class.html)
 
 
 ### What it is:
