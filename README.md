@@ -34,5 +34,19 @@ The definitive version is here and it includes:
 - Multiplayer Mode 
 - Battle System Functional
 if you want to try it out check [this](https://prodigy.entraptadoeztech.nya.je) out!
+### CDE School Version 
+Wanna play [Classdigy](https://prodigy.entraptadoeztech.nya.je/oldprodigy/1-30-0/) in class but Prodigy is **blocked**?
+
+**Well we have a solution for you!**
+
+* [CDE School Ver](/oldprodigy/1-30-0/index.html)
+
+
+### What it is:
+
+- Uses **jsdelivr** to deliver assets/content
+- Doesn’t touch Prodigy’s servers
+- A fun way to play old prodigy even in restricted environments!
+
 ## ❗️Mini Disclaimer❗️
 We do **not** own the assets but we are making fan versions of old prodigy!
